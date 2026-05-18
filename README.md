@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 18.05.2026
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Cassandra Suzanne F
+###  ROLL NO : 212225240027
+###  DEPARTMENT: AIML
 
 
 # EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
@@ -122,10 +122,13 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 
 
 ## Output screen shots of serial port utility   :
+<img width="1600" height="850" alt="WhatsApp Image 2026-05-18 at 9 21 34 AM" src="https://github.com/user-attachments/assets/9b8259c9-c35c-4989-abef-237732676aa1" />
+
  
  
  ## Circuit board :
- 
+ <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a8e6cd00-3183-4987-8cea-49b59ff4ae5f" />
+
  
  
 ## Result :
